@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wallet body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,35 L88,35 C91.3,35 94,37.7 94,41 L94,75 C94,78.3 91.3,81 88,81 L20,81 C16.7,81 14,78.3 14,75 L14,41 C14,37.7 16.7,35 20,35 Z"/>
+    <!-- Card stripe -->
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M14,48 L94,48 L94,58 L14,58 Z"/>
+    <!-- Coin circle -->
+    <path
+        android:fillColor="#00C896"
+        android:pathData="M72,62 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0"/>
+</vector>
